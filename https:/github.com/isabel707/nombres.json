@@ -1,0 +1,113 @@
+[
+    {
+        "nombre": "Namjoon",
+        "apellido": "Kim",
+        "edad": 27,
+        "pais": "Corea",
+        "estatura": "1.81 m",
+    },
+
+    {
+        "nombre": "Seokjin",
+        "apellido": "Kim",
+        "edad": 29,
+        "pais": "Francia",
+        "estatura": "1.79 m",
+    },
+
+    {
+        "nombre": "Yoongi",
+        "apellido": "Min",
+        "edad": 29,
+        "pais": "Italia",
+        "estatura": "1.74 m",
+    },
+
+    {
+        "nombre": "Hoseok",
+        "apellido": "Jung",
+        "edad": 28,
+        "pais": "Alemania",
+        "estatura": "1.77 m",
+    },
+
+    {
+        "nombre": "Jimin",
+        "apellido": "Park",
+        "edad": 26,
+        "pais": "Canada",
+        "estatura": "1.74 m",
+    },
+
+    {
+        "nombre": "Taehyung",
+        "apellido": "Kim",
+        "edad": 26,
+        "pais": "Noruega",
+        "estatura": "1.79 m",
+    },
+
+    {
+        "nombre": "Jungkook",
+        "apellido": "Jeon",
+        "edad": 24,
+        "pais": "España",
+        "estatura": "1.79 m",
+    },
+
+    {
+        "nombre": "Erika",
+        "apellido": "Teran",
+        "edad": 21,
+        "pais": "España",
+        "estatura": "1.65 m",
+    },
+
+    {
+        "nombre": "Sam",
+        "apellido": "Gonzales",
+        "edad": 20,
+        "pais": "Alemania",
+        "estatura": "1.80 m",
+    },
+
+    {
+        "nombre": "Isabel",
+        "apellido": "Gomez",
+        "edad": 21,
+        "pais": "Noruega",
+        "estatura": "1.62 m",
+    },
+
+    {
+        "nombre": "Jazmin",
+        "apellido": "Mendrano",
+        "edad": 19,
+        "pais": "Francia",
+        "estatura": "1.58 m",
+    },
+
+    {
+        "nombre": "Gabriel",
+        "apellido": "Quintero",
+        "edad": 20,
+        "pais": "Corea",
+        "estatura": "1.68 m",
+    },
+
+    {
+        "nombre": "Mei",
+        "apellido": "Lee",
+        "edad": 22,
+        "pais": "China",
+        "estatura": "1.65 m",
+    },
+
+    {
+        "nombre": "Angelica",
+        "apellido": "Perez",
+        "edad": 18,
+        "pais": "México",
+        "estatura": "1.80 m",
+    },
+]
